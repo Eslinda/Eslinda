@@ -4,10 +4,11 @@
 <h1></h1>
 
 ### Мои навыки:
-Ручное тестирование: составление чек-листов, тестовых сценариев, баг-репортов ( <a href="https://docs.google.com/spreadsheets/d/1UOpg5KDmTyLEa5c6Fv-VBMpSy7_HXdjLzMlp5xRY3Vc/edit#gid=0"> Дипломная работа </a>)
+Ручное тестирование: составление чек-листов, тестовых сценариев, баг-репортов (<a href="https://docs.google.com/spreadsheets/d/1UOpg5KDmTyLEa5c6Fv-VBMpSy7_HXdjLzMlp5xRY3Vc/edit#gid=0">Дипломная работа </a>)
 
-Автоматизированное тестирование веб-приложений на Java (<a href="https://github.com/Eslinda/javaqa_team_diplom.git"> Дипломная работа (командный проект)</a>)
+Автоматизированное тестирование веб-приложений на Java (<a href="https://github.com/Eslinda/javaqa_team_diplom.git">Дипломная работа (командный проект)</a>)
 
+Тестирование мобильных приложений (<a href="https://github.com/Eslinda/DiplomQA.git">Дипломная работа (итоговая)</a>)
 <h1></h1>
 
 ### Электронные сертификаты:
@@ -22,6 +23,17 @@
  - <a href="https://drive.google.com/file/d/1LCzLSZpvbafEldr5SBaRCxSQba12vCJU/view?usp=share_link"> Автоматизированное тестирование веб-приложений на Java </a>
 
  - <a href="https://drive.google.com/file/d/1Wm8iqtyCGEkWTygUMcBxCX9tEpYk8YWo/view?usp=share_link"> JavaScript для тестировщиков </a>
+
+ - <a href="https://drive.google.com/file/d/1YgNr4UIE14CugAaAEn9RW2aTGgOOXgle/view?usp=sharing"> Автоматизация тестирования веб-интерфейсов </a>
+
+ - <a href="https://drive.google.com/file/d/1thFcwBEMTABYQjGSaBTo3bjqxhsiSzh3/view?usp=sharing"> Тестирование мобильных приложений </a>
+
+ - <a href="https://drive.google.com/file/d/1DrTkCcu3bSEjQyM8ziR1KQDq8Mo4bmKC/view?usp=sharing"> Тестирование безопасности </a>
+
+ - <a href="https://drive.google.com/file/d/1GD8CL5vZIyhYR7C_s0rpLBLm14bysX3L/view?usp=sharing"> Тестирование производительности </a>
+
+ - <a href="https://drive.google.com/file/d/1j42MRbcpXHu6SbdCkENOb7EFia-fpSoJ/view?usp=sharing"> Инженер по тестированию: с нуля
+до middle </a>
 </div>
  
 <!--
