@@ -6,9 +6,9 @@
 ### Мои навыки:
 Ручное тестирование: составление чек-листов, тестовых сценариев, баг-репортов (<a href="https://docs.google.com/spreadsheets/d/1UOpg5KDmTyLEa5c6Fv-VBMpSy7_HXdjLzMlp5xRY3Vc/edit#gid=0">Дипломная работа </a>)
 
-Автоматизированное тестирование веб-приложений на Java (<a href="https://github.com/Eslinda/javaqa_team_diplom.git">Дипломная работа (командный проект)</a>)
+Автоматизированное тестирование веб-приложений на Java (<a href="https://github.com/Eslinda/javaqa_team_diplom.git">Дипломная работа</a> (командный проект))
 
-Тестирование мобильных приложений (<a href="https://github.com/Eslinda/DiplomQA.git">Дипломная работа (итоговая)</a>)
+Тестирование мобильных приложений (<a href="https://github.com/Eslinda/DiplomQA.git">Дипломная работа</a> (итоговая), <a href="https://docs.google.com/spreadsheets/d/1eRciIrYssRF_isFBq80ewX2fmDNphTIP/edit?usp=sharing&ouid=109512645352678724318&rtpof=true&sd=true">чек-лист</a>, <a href="https://docs.google.com/spreadsheets/d/1LijjgY60gSZ5zcKAybDqVRbm5nY5j5BK/edit?usp=sharing&ouid=109512645352678724318&rtpof=true&sd=true">тест-кейсы</a>)
 <h1></h1>
 
 ### Электронные сертификаты:
